@@ -1,4 +1,4 @@
-package com.spring.jagalchi;
+package com.spring.jagalchi.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
